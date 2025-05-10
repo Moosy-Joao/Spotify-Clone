@@ -1,0 +1,21 @@
+{
+  "name": "spotify-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix back-end && npm install --prefix front-end && npm run build --prefix front-end",
+    "start": "npm start --prefix back-end"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moosy-Joao/Spotify-Clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moosy-Joao/Spotify-Clone/issues"
+  },
+  "homepage": "https://github.com/Moosy-Joao/Spotify-Clone#readme"
+}
